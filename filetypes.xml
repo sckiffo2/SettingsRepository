@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="out11.txt" type="PLAIN_TEXT" />
       <mapping pattern="Интересная задача" type="PLAIN_TEXT" />
+      <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping pattern="bubble" type="PLAIN_TEXT" />
       <mapping pattern="in" type="PLAIN_TEXT" />
     </extensionMap>
