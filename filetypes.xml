@@ -5,6 +5,7 @@
       <mapping pattern="Интересная задача" type="PLAIN_TEXT" />
       <mapping pattern="webapp" type="PLAIN_TEXT" />
       <mapping pattern="bubble" type="PLAIN_TEXT" />
+      <mapping pattern="out08" type="PLAIN_TEXT" />
       <mapping pattern="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
